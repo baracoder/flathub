@@ -1,4 +1,4 @@
-app-id: com.springrts.springlobby
+app-id: com.springrts.SpringLobby
 runtime: org.freedesktop.Platform
 runtime-version: '19.08'
 sdk: org.freedesktop.Sdk
